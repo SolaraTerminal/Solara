@@ -20,10 +20,10 @@
 
 The project is organized as follows:
 
-src/: Main source code files. 
-assets/: Images and visual elements. 
-docs/: Documentation and guides. 
-tests/: Unit tests for the project.
+-`src/`: Main source code files. 
+-`assets/`: Images and visual elements. 
+-`docs/`: Documentation and guides. 
+-`tests/`: Unit tests for the project.
 
 ## Getting Started
 
