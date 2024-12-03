@@ -20,10 +20,14 @@
 
 The project is organized as follows:
 
-`src/`: Main source code files. 
-`assets/`: Images and visual elements. 
-`docs/`: Documentation and guides. 
-`tests/`: Unit tests for the project.
+
+## Description
+
+- **`src/`**: Contains the main source code files (components, services, utils).
+- **`assets/`**: Stores images and styles.
+- **`docs/`**: Documentation files (e.g., setup guide).
+- **`tests/`**: Unit tests for various project components.
+- Root files include the license, `.gitignore`, and project metadata.
 
 ## Getting Started
 
