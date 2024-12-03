@@ -20,8 +20,10 @@
 
 The project is organized as follows:
 
-/src ├── /components # React components for UI ├── /utils # Utility functions for blockchain interaction ├── /services # Services for fetching blockchain data └── /assets # Static assets (images, styles, etc.) /public ├── index.html # Main HTML template └── /images # Public images and icons /package.json # Project dependencies and scripts /README.md # This README file
-
+src/: Main source code files. 
+assets/: Images and visual elements. 
+docs/: Documentation and guides. 
+tests/: Unit tests for the project.
 
 ## Getting Started
 
