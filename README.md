@@ -35,3 +35,28 @@ Make sure you have [Node.js](https://nodejs.org/) installed. You can check by ru
 
 ```bash
 node -v
+```
+
+### Installation
+Clone the repository:
+
+```bash
+git clone https://github.com/your-username/solara-blockchain-explorer.git
+```
+Navigate to the project directory:
+
+```bash
+cd solara-blockchain-explorer
+```
+
+Install the required dependencies:
+
+```bash
+npm install
+```
+Start the development server:
+
+```bash
+npm start
+```
+Open your browser and visit http://localhost:3000 to start exploring!
